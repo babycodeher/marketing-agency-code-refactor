@@ -17,6 +17,13 @@ a {
     margin-left: 25px;
 }
 
+header ul{
+    display: inline-block;
+    margin-left: 1100px;
+    list-style-type: none;
+}
+
+
 p {
     font-size: 16px;
 }
